@@ -1,6 +1,6 @@
 # Practical Machine Learning - JHU - Coursera
 
-## Week 4 Assignment
+## Week 4: Prediction Assignment Writeup
 
 ## The HTML output file is located in the gh-pages branch.
 
